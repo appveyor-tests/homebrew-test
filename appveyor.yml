@@ -1,4 +1,4 @@
 build: off
 
 test_script:
-- brew cask install aptible
+- brew install --cask aptible
